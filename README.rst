@@ -1,4 +1,7 @@
-# Deprecated This repository is deprecated. Please visit [serverlab-testflinger](https://github.com/canonical/serverlab-testflinger) for the latest updates.
+Deprecated
+----------
+
+This repository is deprecated. Please visit [serverlab-testflinger](https://github.com/canonical/serverlab-testflinger) for the latest updates.
 
 
 
